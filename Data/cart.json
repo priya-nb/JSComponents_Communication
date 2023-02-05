@@ -1,0 +1,86 @@
+[
+  {
+
+    "id":"1",
+    "image":"../assests/smart_watch.jpeg",
+    "product_name":"SmartWatch",
+    "product_desc":"boAt Newly Launched Wave Electra with 1.81 HD Display, Smart Calling Ultra-Seamless BT Calling ",
+    "product_price":" ₹2,940"
+
+
+  },
+  {
+
+    "id":"2",
+    "image":"../assests/bag.jpeg",
+    "product_name":"Backpack",
+   
+    "product_desc":" Wesley Milestone 2.0 Casual Waterproof Laptop Backpack/Office Bag/(Dimensions:13x18 inches) (Compatible with 39.62cm(15.6inch laptop) 30 L, Charcoal black",
+    "product_price":"₹498."
+
+
+  },
+
+  {
+
+    "id":"3",
+    "image":"../assests/bluetooth.jpeg",
+    "product_name":"Bluetooth",
+    "product_desc":"blue seed BBD M10 TWS Bluetooth Earbuds Wireless Earbuds with power bank Bluetooth Headset  (Black, True Wireless)",
+    "product_price":"₹635"
+
+
+  },
+  {
+
+    "id":"4",
+    "image":"../assests/denver_perfume.jpeg",
+    "product_name":"Body spray",
+    "product_desc":"DENVER Hamilton Deo(165ML) , Caliber Deo(165ML), Honour Deo(165ML) - Combo pack of 3 | Long Lasting Fragrance Body Deodorant Spray for Women",
+    "product_price":" ₹475"
+
+
+  },
+  {
+    "id":"5",
+    "image":"../assests/girls_top.jpeg",
+    "product_name":"Girls T-Shirt ",
+    "product_desc":"ELEVAJET Women's Regular Trendy LALALA Printed 100% Cotton T-shirt for Women & Girls (Pack of 1)",
+    "product_price":"₹400"
+
+
+  },
+  
+  {
+  "id":"6",
+  "image":"../assests/hoodie.jpeg",
+  "product_name":"T-Shirt ",
+  "product_desc":"Men Typography Round Neck Black T-Shirt",
+  "product_price":"₹450"
+
+  },
+  {
+
+    "id":"7",
+    "image":"../assests/milltonbottle.jpeg",
+    "product_name":"Water Bottle",
+    "product_desc":"Milton Thermosteel Flip Lid Flask, 750 milliliters, Silver",
+    "product_price":"₹868"
+
+
+  },
+  {
+
+    "id":"8",
+    "image":"../assests/shoes.jpeg",
+    "product_name":"Shoes",
+    "product_desc":"BRUTON Trendy Sports Shoes For Men (Blue)",
+   
+    "product_price":"₹400"
+
+
+  }
+
+
+
+]
